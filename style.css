@@ -1,0 +1,90 @@
+.background{
+	background-color: lightgray;
+    padding: 25px;
+    width: 1000px;
+    margin: auto;
+}
+.header{
+	background-color: gray;
+	height: 100px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+}
+.date{
+	background-color: #505050;
+	height: 30px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    margin-top: 10px;
+    color: black;
+}
+.menu{
+	background-color: #505050;
+    height: 400px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    margin-top: 10px;
+    float:left
+}
+.article{
+	background-color: #505050;
+    height: 900px;
+    width: 790px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    margin-top: 10px;
+    float:right
+}
+.footer{
+	background-color: #505050;
+	height: 50px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    margin-top: 920px;
+    text-align: center;
+}
+.pz1{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.zdj1{
+    float: left;
+    margin-right: 10px;
+}
+.zdj2{
+    float: right;
+    margin-left: 10px;
+}
+.gray{
+    background-color: gray;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: justify;
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.white{
+    margin-left: 15px;
+    margin-top: 15px;
+    color:white;
+}
+.table{
+    width:600px;
+}
+.blue{
+    background-color: navy;
+    color: white;
+}
+.hwite{
+    background-color: white;
+    color: black;
+}
